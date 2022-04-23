@@ -42,7 +42,7 @@ c) quando chegar no número 10 pule a instrução|
 
 * FUNÇÂO CALLBACK é uma função que passamos como parâmetro de um outra função.
 
-##Meu aprendizado
+## Meu aprendizado
 
 * Aprender a ler as funções é essencial para o entendimento sobre como elas funcionam;
 
