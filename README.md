@@ -49,3 +49,7 @@ c) quando chegar no número 10 pule a instrução|
 * Rever o básico sempre pode ajudar a entender onde você possa estar errando;
 
 * Expressões matemáticas sempre voltam pra te assombrar...rsrs
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101025726/164838692-13dc003b-e031-4149-b6af-3be5058f033f.gif" width="400px" />
+</div>
